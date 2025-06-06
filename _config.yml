@@ -1,6 +1,7 @@
-baseurl: '/'
+baseurl: '/jekyll-sitio'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Mi sitio con Jekyll'
+
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
