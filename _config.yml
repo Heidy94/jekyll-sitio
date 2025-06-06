@@ -1,6 +1,8 @@
-baseurl: '/'
+baseurl: "/jekyll-sitio"
+url: "https://heidy94.github.io"
 permalink: pretty
-title: 'Jekyll Serif'
+title: "Jekyll Serif"
+
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
