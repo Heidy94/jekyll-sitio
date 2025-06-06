@@ -1,6 +1,6 @@
 title: Mi sitio con Jekyll
 url: "https://heidy94.github.io"
-baseurl: "/jekyll-sitio"
+baseurl: "/jekyll-sitio/index.html"
 theme: jekyll-theme-primer
 
 logo:
