@@ -1,7 +1,7 @@
-baseurl: '/jekyll-sitio'
+title: Mi sitio con Jekyll
 url: "https://heidy94.github.io"
-title: 'Mi sitio con Jekyll'
-
+baseurl: "/jekyll-sitio"
+theme: jekyll-theme-primer
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
