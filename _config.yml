@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/jekyll-sitio'
 url: "https://heidy94.github.io"
 title: 'Mi sitio con Jekyll'
 
