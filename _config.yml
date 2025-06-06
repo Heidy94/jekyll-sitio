@@ -1,7 +1,6 @@
-title: "Mi sitio con Jekyll"
-url: ""
-baseurl: "/jekyll-sitio"
-theme: "jekyll-theme-primer"
+baseurl: ''
+url: "http://127.0.0.1:4000"
+title: 'Mi sitio con Jekyll'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
