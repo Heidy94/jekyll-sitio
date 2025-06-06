@@ -1,7 +1,6 @@
-baseurl: '/jekyll-sitio'
-url: "https://heidy94.github.io"
-title: 'Mi sitio con Jekyll'
-
+baseurl: '/'
+permalink: pretty
+title: 'Jekyll Serif'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
